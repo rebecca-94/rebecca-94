@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebeccatuffnell
-- 👀 I’m interested in Full Stack, UX/UI, EdTech
-- 🌱 I’m currently learning so much every day on the School Of Code Bootcamp
+- 👀 I’m interested in Front End, UX/UI, EdTech
+- 🌱 I’m currently learning Full Stack web development on the School Of Code Bootcamp
 
 <!--- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
