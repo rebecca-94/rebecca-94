@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @rebeccatuffnell
+## Hi 👋 I’m Rebecca
+
 - 👀 I’m interested in Full-stack, UX/UI, and EdTech
 - 🌱 I’m currently improving my Full-Stack web development skills after graduating from the School Of Code Bootcamp
 
