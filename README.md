@@ -7,3 +7,7 @@
 - 🧠 I’m currently learning React Native, SASS, & TypeScript
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/rebecca1994/)
 - 💞️ I’m looking to collaborate on an e-learning platform.
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatuffnell)](https://github.com/rebeccatuffnell/github-readme-stats)
