@@ -7,7 +7,7 @@
 - 🌱 I’m working on improving my Full-stack development skills after graduating from the School Of Code Bootcamp
 - 🧠 I’m currently learning React Native, & TypeScript
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/rebecca1994/)
-- 💞️ I’m looking to collaborate on an e-learning platform.
+- 💞️ I’m looking to collaborate on an e-learning platform
 
 <br>
 
