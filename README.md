@@ -11,4 +11,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatuffnell)](https://github.com/rebeccatuffnell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatuffnell&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
