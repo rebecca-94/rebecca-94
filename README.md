@@ -5,7 +5,7 @@
 - 🎓 I'm an MA Education and Technology student at UCL's Institute of Education
 - 👀 I’m interested in software engineering, UX/UI design, E-commerce, & EdTech
 - 🌱 I’m working on improving my Full-stack development skills after graduating from the School Of Code Bootcamp
-<!-- - 🧠 I’m currently learning React Native, & TypeScriptative, & -->
+- 🧠 I’m currently learning Vue & PHP
 - 💞️ I’m looking to collaborate on an e-learning app
 
 <br>
