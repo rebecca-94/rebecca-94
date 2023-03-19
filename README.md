@@ -1,4 +1,4 @@
-## Hi, I’m Rebecca 👋
+## 👋 Hi, I'm Rebecca
 
 #### About me:
 
