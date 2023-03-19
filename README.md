@@ -2,12 +2,13 @@
 
 #### About me:
 
-- 🎓 I'm an MA Education and Technology student at UCL's Institute of Education
-- 👀 I’m interested in software engineering, UX/UI design, E-commerce, & EdTech
-- 🌱 I’m working on improving my Full-stack development skills after graduating from the School Of Code Bootcamp
-- 🧠 I’m currently learning TypeScript, Vue, & PHP
-- 💞️ I’m looking to collaborate on an e-learning app
+- 💻 Frontend Dev
+- 🎓 studying EdTech
+- 🧠 currently learning TypeScript, Vue, & PHP
+- 💞️ looking to collaborate on an e-learning app
+- ⚽ Spurs fan
+- 🍺 Beer Connoisseur
 
 <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccatuffnell&layout=compact&langs_count=8&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecca-94&layout=compact&langs_count=8&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
