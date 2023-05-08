@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rebecca</h1>
-<h3>A creative Frontend Developer from Cornwall</h3>
+<h3>A creative Frontend Developer from the UK</h3>
 
 #### About me:
 
