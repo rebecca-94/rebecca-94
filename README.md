@@ -4,7 +4,7 @@
 
 - 💻 Frontend Dev
 - 🎓 studying EdTech
-- 🧠 currently learning TypeScript & Vue
+- 🧠 currently learning TypeScript & PHP
 - ⚽ Spurs fan
 - 🍺 Beer Connoisseur
 
