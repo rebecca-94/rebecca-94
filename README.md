@@ -3,7 +3,7 @@
 
 #### About me:
 
-- 🌱 I'm currently learning TypeScript & PHP
+- 🌱 I'm currently learning TypeScript & Vue
 
 
 <br>
