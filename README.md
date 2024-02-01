@@ -5,7 +5,7 @@
 <h4>I'm a creative Front-end Developer from the UK, with a passion for EdTech and E-commerce.</h4>
 
 - 🌱 Currently learning: TypeScript & Vue
-- 🔭 Working on: An accessible E-commerce site
+- 🔭 Working on: Building an accessible E-commerce site
 - ⚡ Fun fact: I used to teach English in Korea
 
 ## My Skills 🧠
