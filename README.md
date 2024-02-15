@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning: TypeScript & Vue
 - 🔭 Working on: Building an accessible E-commerce site
-- ⚡ Fun fact: I used to teach English in Korea
+- ⚡ Fun fact: I'm a Tottenham Hotspur fan ⚽
 
 ## My Skills 🧠
 
