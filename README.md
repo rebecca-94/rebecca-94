@@ -4,7 +4,7 @@
 
 <h4>I'm a creative Front-end Developer from the UK, with a passion for EdTech and E-commerce.</h4>
 
-- 🌱 Currently learning: TypeScript
+- 🌱 Currently learning: TypeScript & PHP
 - 🔭 Working on: Building an accessible e-commerce site
 - ⚡ Fun fact: I'm a Tottenham Hotspur fan ⚽
 
